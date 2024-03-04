@@ -14,6 +14,7 @@
 		F6414E962B9634710059599D /* ArtBookProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F6414E942B9634710059599D /* ArtBookProject.xcdatamodeld */; };
 		F6414E982B9634730059599D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6414E972B9634730059599D /* Assets.xcassets */; };
 		F6414E9B2B9634730059599D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6414E992B9634730059599D /* LaunchScreen.storyboard */; };
+		F6414EA32B9639B60059599D /* detailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6414EA22B9639B60059599D /* detailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F6414E972B9634730059599D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F6414E9A2B9634730059599D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F6414E9C2B9634730059599D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6414EA22B9639B60059599D /* detailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				F6414E8B2B9634710059599D /* AppDelegate.swift */,
 				F6414E8D2B9634710059599D /* SceneDelegate.swift */,
 				F6414E8F2B9634710059599D /* ViewController.swift */,
+				F6414EA22B9639B60059599D /* detailsVC.swift */,
 				F6414E912B9634710059599D /* Main.storyboard */,
 				F6414E972B9634730059599D /* Assets.xcassets */,
 				F6414E992B9634730059599D /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				F6414E962B9634710059599D /* ArtBookProject.xcdatamodeld in Sources */,
 				F6414E902B9634710059599D /* ViewController.swift in Sources */,
+				F6414EA32B9639B60059599D /* detailsVC.swift in Sources */,
 				F6414E8C2B9634710059599D /* AppDelegate.swift in Sources */,
 				F6414E8E2B9634710059599D /* SceneDelegate.swift in Sources */,
 			);
